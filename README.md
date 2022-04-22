@@ -4,13 +4,20 @@
 
 Após cerca de 2 anos de pandemia de covid-19, fomos surpreendidos pela <b>invasão da Rússia à Ucrânia</b>. Independente dos motivos de tal guerra, esse trabalho possui cunho imparcial e <b>pretende fazer previsões de séries temporais nesse contexto</b>.
 
+<p align="center">
+
 <img src = "https://media0.giphy.com/media/hFKpvVLENPAMmoy5nf/giphy.gif" height = 400, widht = 900>
 
+<p>
+
 Uma guerra é prejudicial para todo mundo. No entanto, ela ainda mais destrutiva para os que nela estão envolvidos diretamente. A Rússia, por exemplo, apresenta os perfis a seguir de perdas bélicas e humanas;
-
-![download (20)](https://user-images.githubusercontent.com/93550626/163851149-5081e289-fea2-43c6-af87-5e4adaeeb6de.png)
-
-![download (21)](https://user-images.githubusercontent.com/93550626/163851713-ee8a939a-a67a-40ae-8630-210a7cba0c45.png)
+    
+<p align="center">
+    
+<img src = "https://user-images.githubusercontent.com/93550626/163851149-5081e289-fea2-43c6-af87-5e4adaeeb6de.png" width = 500 height = 400>
+<img src = "https://user-images.githubusercontent.com/93550626/163851713-ee8a939a-a67a-40ae-8630-210a7cba0c45.png" width = 500 height = 400>    
+    
+<p>    
 
 Muitos russos foram mortos e muitos equipamentos foram perdidos. Nesse sentido, o presente trabalho <b>pretende prever perdas russas, tanto bélicas quanto humanas</b>.
 
@@ -134,14 +141,21 @@ Felizmente, não há dados faltantes nesse conjunto de dados.
 ### 3.3.2. Análise dos dados
 
 Começamos plotando as séries temporais para as perdas bélicas da Rússia;
+    
+<p alighn="center">
 
-![download (20)](https://user-images.githubusercontent.com/93550626/163851149-5081e289-fea2-43c6-af87-5e4adaeeb6de.png)
-
-![download (22)](https://user-images.githubusercontent.com/93550626/163858392-f3d0175d-7c05-4dfb-b15f-503d8a2f91f5.png)
+<img src = "https://user-images.githubusercontent.com/93550626/163851149-5081e289-fea2-43c6-af87-5e4adaeeb6de.png" width = 500 height = 400>
+<img src = "https://user-images.githubusercontent.com/93550626/163858392-f3d0175d-7c05-4dfb-b15f-503d8a2f91f5.png" width = 500 height = 400>    
+    
+<p>    
 
 Agora, as perdas humanas;
-
-![download (21)](https://user-images.githubusercontent.com/93550626/163858498-85597a3d-ed2e-4b5b-9782-11a5e5ce391f.png)
+    
+<p align="center">
+    
+<img src = "https://user-images.githubusercontent.com/93550626/163858498-85597a3d-ed2e-4b5b-9782-11a5e5ce391f.png" width = 500 height = 400>
+    
+<p>    
 
 Muitos russos foram mortos e, pelo andar crescente do gráfico, vem mais por aí...
 
@@ -198,12 +212,20 @@ pred_aeronaves
 # 4. Resultados 
 
 A previsão foi feita de de 2022-04-19 até 2022-04-23; Começamos primeiro com as perdas bélicas;
-
-![download (23)](https://user-images.githubusercontent.com/93550626/163860396-7337248b-d393-45a2-8e5b-7d36e1a6d7fe.png)
+    
+<p align="center">
+    
+<img src = "https://user-images.githubusercontent.com/93550626/163860396-7337248b-d393-45a2-8e5b-7d36e1a6d7fe.png" width = 500 height = 400>
+    
+<p>      
 
 Agora com as perdas humanas;
-
-![download (25)](https://user-images.githubusercontent.com/93550626/163862019-20f60fbd-ec80-4108-9843-4182adb71233.png)
+    
+<p align="center">
+    
+<img src = "https://user-images.githubusercontent.com/93550626/163862019-20f60fbd-ec80-4108-9843-4182adb71233.png" width = 500 height = 400>
+    
+<p>      
 
 # 5. Conclusão
 
