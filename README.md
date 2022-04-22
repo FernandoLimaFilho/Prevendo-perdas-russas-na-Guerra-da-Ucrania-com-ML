@@ -14,8 +14,8 @@ Uma guerra é prejudicial para todo mundo. No entanto, ela ainda mais destrutiva
     
 <p align="center">
     
-<img src = "https://user-images.githubusercontent.com/93550626/163851149-5081e289-fea2-43c6-af87-5e4adaeeb6de.png" width = 400 height = 400>
-<img src = "https://user-images.githubusercontent.com/93550626/163851713-ee8a939a-a67a-40ae-8630-210a7cba0c45.png" width = 400 height = 400>    
+<img src = "https://user-images.githubusercontent.com/93550626/163851149-5081e289-fea2-43c6-af87-5e4adaeeb6de.png" width = 400 height = 360>
+<img src = "https://user-images.githubusercontent.com/93550626/163851713-ee8a939a-a67a-40ae-8630-210a7cba0c45.png" width = 400 height = 360>    
     
 <p>    
 
@@ -144,8 +144,8 @@ Começamos plotando as séries temporais para as perdas bélicas da Rússia;
     
 <p alighn="center">
 
-<img src = "https://user-images.githubusercontent.com/93550626/163851149-5081e289-fea2-43c6-af87-5e4adaeeb6de.png" width = 400 height = 400>
-<img src = "https://user-images.githubusercontent.com/93550626/163858392-f3d0175d-7c05-4dfb-b15f-503d8a2f91f5.png" width = 400 height = 400>    
+<img src = "https://user-images.githubusercontent.com/93550626/163851149-5081e289-fea2-43c6-af87-5e4adaeeb6de.png" width = 400 height = 360>
+<img src = "https://user-images.githubusercontent.com/93550626/163858392-f3d0175d-7c05-4dfb-b15f-503d8a2f91f5.png" width = 400 height = 360>    
     
 <p>    
 
